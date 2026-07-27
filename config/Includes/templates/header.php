@@ -7,7 +7,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
         <meta name="description" content="Barbershop Booking Space">
-        <meta name="author" content="JAIRI IDRISS">
         <title>Barber Shop || BarberShop Hair Salon</title>
 
         <!-- EXTERNAL CSS LINKS (Menggunakan BASE_URL) -->
